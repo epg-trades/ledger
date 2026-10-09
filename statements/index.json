@@ -8,5 +8,10 @@
   "day": "2026-10-08",
   "file": "statements/2026-10-08.json",
   "sha256": "3482293797c6c64583c0e7960feae066fe0f9082e55babfd39cbe621072aab84"
+ },
+ {
+  "day": "2026-10-09",
+  "file": "statements/2026-10-09.json",
+  "sha256": "6410f33ee006e401950eeec54ab9641326d6e96279bd24024b819cc6c7056f3c"
  }
 ]
