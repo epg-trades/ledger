@@ -1,1 +1,1 @@
-{"closed_trades":0,"day":"2026-10-12","day_end_balance_usd":894.76,"day_return":0.0,"fills":1,"first_seq":1097,"head_hash":"2e5b13b1dbd924f0e3435d5d70532606e19ad63ab9ee846b682be8d4f4a0b560","index_close":89.475785,"index_open":89.475785,"last_seq":1097,"mode":"PAPER","v":1}
+{"closed_trades":1,"day":"2026-10-12","day_end_balance_usd":931.6,"day_return":0.0411751,"fills":2,"first_seq":1097,"head_hash":"dd92fd643c1f60c12025fba34a64ed343e10dc6ac974bf92326fa757babfeede","index_close":93.159959,"index_open":89.475785,"last_seq":1098,"mode":"PAPER","v":1}
