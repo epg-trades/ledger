@@ -28,5 +28,10 @@
   "day": "2026-10-12",
   "file": "statements/2026-10-12.json",
   "sha256": "c51c4e28577e795c19aaf53b7674b9279561df0dffd77baaacf433314377f723"
+ },
+ {
+  "day": "2026-10-13",
+  "file": "statements/2026-10-13.json",
+  "sha256": "1d46621a68305ee630bf90789ee7be913456e2ecce7a3bbbfd80910b0c3c0da3"
  }
 ]
