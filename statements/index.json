@@ -33,5 +33,15 @@
   "day": "2026-10-13",
   "file": "statements/2026-10-13.json",
   "sha256": "8c584afd8119b899fbbc33d924cd64c56cf0c41cdb05f6c6a50df8d015879534"
+ },
+ {
+  "day": "2026-10-14",
+  "file": "statements/2026-10-14.json",
+  "sha256": "d881e0d6bbb725fb43aa392360ae1cdc0690b572bd49778e911a9529223754f6"
+ },
+ {
+  "day": "2026-10-15",
+  "file": "statements/2026-10-15.json",
+  "sha256": "149cc6b633237e9d297df037667cccd279f0450641a476c434d9960683100de2"
  }
 ]
