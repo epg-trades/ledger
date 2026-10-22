@@ -63,5 +63,20 @@
   "day": "2026-10-19",
   "file": "statements/2026-10-19.json",
   "sha256": "ebe04b2bc479e61d2f12cc2fc81a0e2c5f12b94e34abf5e68b30b5f219b19232"
+ },
+ {
+  "day": "2026-10-20",
+  "file": "statements/2026-10-20.json",
+  "sha256": "6bc4ac44002646393dbdeeefeecff296e6984429dfddc55850218b6d4baffd1c"
+ },
+ {
+  "day": "2026-10-21",
+  "file": "statements/2026-10-21.json",
+  "sha256": "d5f2e1d1459e3e5fac329f87bfe41ef3807211e4409f099c4ded23874e1305ba"
+ },
+ {
+  "day": "2026-10-22",
+  "file": "statements/2026-10-22.json",
+  "sha256": "b77ac7bcfe4ff29e092f2252a24503b1930c456d310f525e44e6a2f0aa838e5c"
  }
 ]
