@@ -78,5 +78,40 @@
   "day": "2026-10-22",
   "file": "statements/2026-10-22.json",
   "sha256": "b304f3162ca7c80a3a52ea8978703112b638ecbc13fb986022c9030fee65130e"
+ },
+ {
+  "day": "2026-10-23",
+  "file": "statements/2026-10-23.json",
+  "sha256": "8be4cd2abbf06434b085eff52556fdee74714dfd9ba336a4a22281c75793b883"
+ },
+ {
+  "day": "2026-10-24",
+  "file": "statements/2026-10-24.json",
+  "sha256": "e9774bbfa04c20842932d172bcc89e9312dc3b6c70d08eb2d0796aa30543fd6a"
+ },
+ {
+  "day": "2026-10-25",
+  "file": "statements/2026-10-25.json",
+  "sha256": "e921834fa80e0d62136c332f37c33a4626b1999f583a3cc2910f2b12fc4a62e2"
+ },
+ {
+  "day": "2026-10-26",
+  "file": "statements/2026-10-26.json",
+  "sha256": "902b900336ad3ea09fe2610b93f7c942f77e0143a394485719bfc54ecc97723c"
+ },
+ {
+  "day": "2026-10-27",
+  "file": "statements/2026-10-27.json",
+  "sha256": "75b052c61438fbfcd5fef8b0800460257d4048d3e58737f460327b49fbfc528e"
+ },
+ {
+  "day": "2026-10-28",
+  "file": "statements/2026-10-28.json",
+  "sha256": "3a001111fb8e42324893a9dca294c8d47209305a3552e81dcf3acdbbfe30cec8"
+ },
+ {
+  "day": "2026-10-29",
+  "file": "statements/2026-10-29.json",
+  "sha256": "65742200c7a4444f3896732a9326c3b653b3ec5e522b466343a57f804d2bec6d"
  }
 ]
