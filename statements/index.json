@@ -113,5 +113,10 @@
   "day": "2026-10-29",
   "file": "statements/2026-10-29.json",
   "sha256": "168ed1d16327928110ab684899810c8194c88e08dc983f6097e58b40ae1fac15"
+ },
+ {
+  "day": "2026-10-30",
+  "file": "statements/2026-10-30.json",
+  "sha256": "4a529eb42e3cc1d1cc59de7cf94180898a4c1989d6ddc7c38c29853be28560bf"
  }
 ]
